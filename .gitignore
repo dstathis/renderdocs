@@ -1,0 +1,7 @@
+docs/*
+home.md
+**/__pycache__
+venv
+token.pickle
+id.txt
+credentials.json
