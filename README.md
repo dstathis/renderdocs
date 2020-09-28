@@ -9,7 +9,7 @@ Downloads docs from a goole drive folder and renders them as markdown
 
 2. Put credentials.json in the working directory
 
-3. Go to https://console.developers.google.com/ and add the docs api to the project you just created
+3. Go to https://console.developers.google.com/ and add the drive api to the project you just created
 
 4. `virtualenv venv`
 
